@@ -1,0 +1,9 @@
+em php.ini (C:\wamp\bin\apache\Apache2.4.4\bin)
+----------------------------------------
+upload_max_filesize = 150M
+post_max_size = 170M
+memory_limit = 256M
+
+em my.ini (C:\wamp\bin\mysql\mysql5.6.12)
+----------------------------------------
+max_allowed_packet = 150M
